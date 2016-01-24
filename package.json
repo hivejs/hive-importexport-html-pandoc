@@ -1,0 +1,33 @@
+{
+  "name": "hive-importexport-html-pandoc",
+  "version": "0.6.0",
+  "description": "advanced import/export hooks for hive.js HTML documents using the pandoc document converter",
+  "main": "index.js",
+  "dependencies": {
+    "stream-buffers": "3.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hivejs/hive-importexport-html-pandoc.git"
+  },
+  "keywords": [
+    "hive",
+    "collaborative",
+    "editing",
+    "export",
+    "import",
+    "pandoc",
+    "docx",
+    "pdf",
+    "hive.js"
+  ],
+  "author": "Marcel Klehr <mklehr@gmx.net>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hivejs/hive-importexport-html-pandoc/issues"
+  },
+  "homepage": "https://github.com/hivejs/hive-importexport-html-pandoc#readme"
+}
